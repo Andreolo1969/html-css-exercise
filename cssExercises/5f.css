@@ -1,0 +1,27 @@
+
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        .money{
+            font-size: 32px;
+            margin-bottom: 5px;
+        }
+        .usd{
+            font-size: 16px;
+            color: rgb(100, 100, 100);            
+        }
+        .today{
+            font-size: 18px;
+            color: rgb(24, 128, 56);
+            margin-bottom: 8px;
+        }
+        .hours{
+        
+                color:rgb(100, 100, 100);
+        }
+        .porcentage{
+            color: rgb(235, 39, 39);
+        }
+   
